@@ -1,1 +1,1 @@
-# ToDoList
+#### This is a fully functional To Do List. New Items can be added. Items can also be marked and unmarked to keep a check on tasks. This To Do List is fully functional on the server side and uses Node JS to operate.
